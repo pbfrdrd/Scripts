@@ -1,5 +1,6 @@
 #!/bin/sh
 # TBD add log file
+# Add automatic IP allocation
 process=py-kms
 makerun="/opt/bin/python2 /share/homes/admin/python/py-kms/server.py 192.168.2.8 1688"
 
